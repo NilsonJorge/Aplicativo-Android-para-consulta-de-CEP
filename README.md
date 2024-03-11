@@ -1,1 +1,1 @@
-# Aplicativo-Android-para-consulta-de-CEP
+## Este repositório possui o projeto que foi desenvolvido no Android Studio para uma aplicação para consulta de CEP. Foi desenvolvido durante o curso de "Desenvolvimento de Aplicações Mobile com Android Studio" da Fundação Bradesco
